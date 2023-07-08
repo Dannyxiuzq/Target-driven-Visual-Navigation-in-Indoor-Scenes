@@ -1,0 +1,5 @@
+mean_epi_len: 8.886666666666667
+mean_epi_reward: 9.911533333333338
+mean_epi_col: 0.10666666666666667
+Test successful rate: 100.00%
+Test SPL: 76.75%

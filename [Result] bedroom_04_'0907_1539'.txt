@@ -1,0 +1,2 @@
+SR_base: 43.33   SPL_base: 5.71
+SR_CIVN: 0.00   SPL_CIVN: 0.00
